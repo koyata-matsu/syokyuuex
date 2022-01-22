@@ -14,7 +14,7 @@ body {
 
 @font-face {
   font-family: 'cinecaption';
-  src: url(/font/cinecaption_10788.ttf) format("TrueType");
+  src: url(font/cinecaption_10788.ttf) format("TrueType");
 }
 
 @media screen and (min-width: 769px) {
