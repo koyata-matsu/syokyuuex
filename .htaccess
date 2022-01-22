@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "[syokyuuex]"
-AuthUserFile ".htpasswd"
+AuthUserFile "https://koyata-matsu.github.io/syokyuuex/.htpasswd"
 require valid-user
