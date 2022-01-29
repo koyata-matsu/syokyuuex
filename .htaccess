@@ -1,4 +1,4 @@
-AuthUserFile syokyuuex/.htpasswd
+AuthUserFile github.com/koyata-matsu/syokyuuex/blob/main/.htpasswd
 AuthGroupFile /dev/null
 AuthName "Please enter your ID and パスワード"
 AuthType Basic
